@@ -1,0 +1,15 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP HT7333
+D HT7333 3.3V Linear low voltage drop regulator
+K HT7333 7333
+F http://www.holtek.com.tw/documents/10179/11842/HT73xx-1v100.pdf
+$ENDCMP
+#
+$CMP HT7350
+D HT7350 5V Linear low voltage drop regulator
+K HT7350 7350
+F http://www.holtek.com.tw/documents/10179/11842/HT73xx-1v100.pdf
+$ENDCMP
+#
+#End Doc Library
